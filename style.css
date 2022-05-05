@@ -1,0 +1,27 @@
+
+body{
+    background-color: #D3D3D3;
+}
+
+#cart{
+    float:right;
+    width:30%;
+    border-style:solid;
+    padding: 20px;
+    border-radius:10%;
+    text-align: centre;
+    background-color: #87CEFA;
+  }
+  img{
+    border-radius: 8px;
+    width:200px;
+    height:100px;
+  }
+  button{
+    border-radius: 8px;
+    height:50px;
+    width: 150px;
+  }
+  #contain{
+    padding: 15px;
+  }
